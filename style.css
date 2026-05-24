@@ -1,0 +1,54 @@
+.body{
+    background-color:White;
+    padding:20px;
+}
+.nav{
+    justify-content: space-between;
+    background-color:black;
+    color: aliceblue;
+    color:rgb(246, 255, 0);
+}
+.h3{
+    color:antiquewhite;
+}
+.main{
+    gap:5px;
+}
+input{
+    flex:auto;
+    padding:15px;
+}
+.btn{
+    padding:10px;
+    background-color: blue;
+    color:antiquewhite;
+    border:3px;
+    border-color: antiquewhite;
+    cursor: pointer;
+}
+li{
+    list-style: circle;
+    margin-top: 10px;
+    background-color: aliceblue;
+    padding: 10px;
+    display:flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    align-items: center;
+}
+span.completed{
+    color:black;
+    text-decoration: line-through;
+}
+.completeBtn{
+    background-color: green;
+    color: white;
+    border:5px solid grey;
+    cursor: pointer;
+}
+.deleteBtn{
+    background-color: red;
+    color: white;
+    border:5px solid grey;
+    cursor: pointer;
+}
