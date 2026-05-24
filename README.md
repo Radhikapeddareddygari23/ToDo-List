@@ -1,0 +1,1 @@
+It is simple to do list application where I used HTML, CSS, JavaScript. Here we can Add the Task into the application and when the task is completed as soon we click on the tick mark it the task will strikeoff. and even we can delete the task.
